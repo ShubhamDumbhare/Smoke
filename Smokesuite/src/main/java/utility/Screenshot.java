@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.io.FileHandler;
 
 public class Screenshot {
-	
+	//With Random Number
 	public static  void ScreenShotMethod(WebDriver driver) throws IOException
 	{
 		Random r = new Random();
