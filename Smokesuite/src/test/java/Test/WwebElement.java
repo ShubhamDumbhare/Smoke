@@ -12,22 +12,11 @@ import pojo.LaunchBrowser;
 public class WwebElement {
 	WebDriver driver;
 	
-	
 	@BeforeTest
 	public void openBrowser() 
 	{
 	driver = LaunchBrowser.CromeBrowserLaunch("https://rahulshettyacademy.com/seleniumPractise/#/");
 	}
-
-       
-		 
-    		
-       
 	
 	
-        
-        
-        
-	
-
 }
