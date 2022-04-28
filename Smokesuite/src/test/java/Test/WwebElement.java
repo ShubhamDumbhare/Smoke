@@ -18,5 +18,8 @@ public class WwebElement {
 	driver = LaunchBrowser.CromeBrowserLaunch("https://rahulshettyacademy.com/seleniumPractise/#/");
 	}
 	
-	
+	@Test
+	public void login() {
+		
+	}
 }

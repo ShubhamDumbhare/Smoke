@@ -27,6 +27,4 @@ public class Arithmatic {
 	{
 	System.out.println("King");
 	}
-
-
 }
