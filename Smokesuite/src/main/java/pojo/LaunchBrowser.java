@@ -21,6 +21,7 @@ public class LaunchBrowser {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://demo.guru99.com/v4/index.php");
 		driver.manage().window().maximize();
+		System.out.println("hi there");
 		return driver;
 	}
 	
